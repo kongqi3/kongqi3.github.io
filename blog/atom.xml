@@ -3,11 +3,11 @@
   <title>敏🐟的画画室</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="./abc.html/"/>
+  <link href="https://kongqi3.github.io/blog/"/>
   <updated>2020-10-15T14:34:11.505Z</updated>
-  <id>./abc.html/</id>
+  <id>https://kongqi3.github.io/blog/</id>
   
   <author>
     <name>LG</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>正确的伽罗使用方式</title>
-    <link href="./abc.html/2020/10/15/%E4%BC%BD%E7%BD%97/"/>
-    <id>./abc.html/2020/10/15/伽罗/</id>
+    <link href="https://kongqi3.github.io/blog/2020/10/15/%E4%BC%BD%E7%BD%97/"/>
+    <id>https://kongqi3.github.io/blog/2020/10/15/伽罗/</id>
     <published>2020-10-15T11:22:22.494Z</published>
     <updated>2020-10-15T14:34:11.505Z</updated>
     
@@ -30,14 +30,14 @@
     </summary>
     
     
-      <category term="伽罗,王者荣耀,🐟" scheme="./abc.html/tags/%E4%BC%BD%E7%BD%97-%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80-%F0%9F%90%9F/"/>
+      <category term="伽罗,王者荣耀,🐟" scheme="https://kongqi3.github.io/blog/tags/%E4%BC%BD%E7%BD%97-%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80-%F0%9F%90%9F/"/>
     
   </entry>
   
   <entry>
     <title>空气的第一篇文章</title>
-    <link href="./abc.html/2020/10/07/no1/"/>
-    <id>./abc.html/2020/10/07/no1/</id>
+    <link href="https://kongqi3.github.io/blog/2020/10/07/no1/"/>
+    <id>https://kongqi3.github.io/blog/2020/10/07/no1/</id>
     <published>2020-10-06T19:02:44.716Z</published>
     <updated>2020-10-15T14:37:39.922Z</updated>
     
@@ -48,14 +48,14 @@
     </summary>
     
     
-      <category term="🐟，空气" scheme="./abc.html/tags/%F0%9F%90%9F%EF%BC%8C%E7%A9%BA%E6%B0%94/"/>
+      <category term="🐟，空气" scheme="https://kongqi3.github.io/blog/tags/%F0%9F%90%9F%EF%BC%8C%E7%A9%BA%E6%B0%94/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="./abc.html/2020/10/07/hello-world/"/>
-    <id>./abc.html/2020/10/07/hello-world/</id>
+    <link href="https://kongqi3.github.io/blog/2020/10/07/hello-world/"/>
+    <id>https://kongqi3.github.io/blog/2020/10/07/hello-world/</id>
     <published>2020-10-06T19:02:44.712Z</published>
     <updated>2020-10-15T14:42:07.030Z</updated>
     
